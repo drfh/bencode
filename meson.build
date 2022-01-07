@@ -1,4 +1,4 @@
-project('libbencode', 'c',
+project('bencode', 'c',
 	default_options : [
 		'warning_level=3',
 		'werror=false',
